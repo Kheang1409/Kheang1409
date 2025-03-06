@@ -1,15 +1,65 @@
+<!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
+![MasterHead](./assets/gh-header-image.png)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kheang1409&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kheang1409&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kheang1409&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kheang1409&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <h2 align="center">Welcome to my GitHub profile!</h2>
+  <div>
+    <div width="49%">
+      <img align="right" alt="Coding" width="300" src="./assets/developer-dev.gif">
+    </div>
+    <div align="left" width="49%">
+      <p>
+        I'm Hang Kheang Taing, a passionate .NET Developer with over 3 years of experience specializing in designing, developing, and maintaining enterprise-level applications. I focus on full-stack development, core banking systems, and system integrations to optimize performance and enhance operational efficiency. I'm dedicated to continuously improving my technical skills to create innovative software solutions that meet business needs.<br><br>
+        My background includes a strong understanding of C#, ASP.NET, and .NET Framework, with expertise in building scalable architectures, optimizing databases, and automating systems. Let's connect and create something impactful together!
+      </p>
+    </div>
+  </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Kheang1409&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## You can connect with me at [LinkedIn](https://www.linkedin.com/in/hang-kheang-taing)
+
+<div>
+  <h2 align="center">Technologies & Tools</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,github,git,aws,azure,docker,js,css,html,mysql,postgres,mongodb,bun"/>
+    </a>
+  </p>
+</div>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+  <table align="center">
+  <tr border="0">
+  <td width="50%" align="center">
+    
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kheang1409&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kheang1409&theme=dark&hide_border=true"> 
+  </td>
+
+  <td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kheang1409&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+    
+  </td>
+  </tr>
+  </table>
+  <!--- stats (end) -->
+
+  <!--- trophy (start) -->
+  <div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Kheang1409&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="TROPHY" />
+      </a>
+    
+  </div>
+</p>  
+
+<div align=center>
+    <img align="right" width="300" src="https://readme-jokes.vercel.app/api?hideborder&theme=cobalt" alt="Jokes Card" />
+</div>
+
