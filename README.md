@@ -10,7 +10,7 @@
     </div>
     <div align="left" width="49%">
       <p>
-        I'm Hang Kheang Taing, a passionate .NET Developer with over 3 years of experience specializing in designing, developing, and maintaining enterprise-level applications. I focus on full-stack development, core banking systems, and system integrations to optimize performance and enhance operational efficiency. I'm dedicated to continuously improving my technical skills to create innovative software solutions that meet business needs.<br><br>
+        I'm Kai Taing, a passionate .NET Developer with over 3 years of experience specializing in designing, developing, and maintaining enterprise-level applications. I focus on full-stack development, core banking systems, and system integrations to optimize performance and enhance operational efficiency. I'm dedicated to continuously improving my technical skills to create innovative software solutions that meet business needs.<br><br>
         My background includes a strong understanding of C#, ASP.NET, and .NET Framework, with expertise in building scalable architectures, optimizing databases, and automating systems. Let's connect and create something impactful together!
       </p>
     </div>
