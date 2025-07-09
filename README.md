@@ -15,14 +15,22 @@
 
 ---
 
-### 💼 About Me
+<h2>💼 About Me</h2>
 
-- 🔧 Senior .NET Developer with **3+ years** in enterprise software, banking, and automation
-- 🌐 Full-stack experience: **.NET Core**, **Angular**, **PostgreSQL**, **Microservices**
-- ☁️ Skilled in cloud deployments using **AWS**, **Azure**, **Docker**, and **Kubernetes**
-- 🧩 Passionate about **Clean Architecture**, **DDD**, **CQRS**, and **event-driven systems**
-- 📚 Pursuing a Master’s in Computer Science @ MIU (US)
-- 📍 Based in Phnom Penh, Cambodia — open to global remote work
+<div align="left" style="overflow: auto; padding-bottom: 20px;">
+  <img align="right" src="./assets/developer-dev.gif" alt="Coding" width="300" style="margin-left: 20px;" />
+
+  <ul>
+    <li>🔧 Systems engineer passionate about scalable architecture and enterprise software</li>
+    <li>🌐 Full-stack capable: <strong>.NET Core</strong>, <strong>Angular</strong>, <strong>PostgreSQL</strong>, <strong>Microservices</strong></li>
+    <li>☁️ Skilled in cloud-native development using <strong>AWS</strong>, <strong>Azure</strong>, <strong>Docker</strong>, and <strong>Kubernetes</strong></li>
+    <li>🧩 Experienced in <strong>Clean Architecture</strong>, <strong>DDD</strong>, <strong>CQRS</strong>, and <strong>event-driven systems</strong></li>
+    <li>🎓 Pursuing a Master’s in Computer Science @ MIU (U.S.)</li>
+    <li>📍 Currently based in the <strong>United States</strong> — open to on-site or remote opportunities</li>
+  </ul>
+</div>
+
+<br/><br/>
 
 ---
 
