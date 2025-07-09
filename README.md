@@ -18,8 +18,7 @@
 <h2>💼 About Me</h2>
 
 <div align="left" style="overflow: auto; padding-bottom: 20px;">
-  <img align="right" src="./assets/developer-dev.gif" alt="Coding" width="300" style="margin-left: 20px;" />
-
+  <img align="right" src="./assets/developer-dev.gif" alt="Coding" width="250" style="margin-left: 00px;" />
   <ul>
     <li>🔧 Systems engineer passionate about scalable architecture and enterprise software</li>
     <li>🌐 Full-stack capable: <strong>.NET Core</strong>, <strong>Angular</strong>, <strong>PostgreSQL</strong>, <strong>Microservices</strong></li>
@@ -29,8 +28,6 @@
     <li>📍 Currently based in the <strong>United States</strong> — open to on-site or remote opportunities</li>
   </ul>
 </div>
-
-<br/><br/>
 
 ---
 
@@ -66,13 +63,26 @@
 
 ### 📈 GitHub Stats
 
+<!--- stats & Trophy (start) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kheang1409&theme=dark&show_icons=true&count_private=true&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kheang1409&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kheang1409&theme=dark&hide_border=true&no-bg=true&langs_count=10" />
-</p>
+  <!--- stats (start) -->
+  <table align="center">
+  <tr border="0">
+  <td width="50%" align="center">
+    
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kheang1409&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kheang1409&theme=dark&hide_border=true"> 
+  </td>
+
+  <td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kheang1409&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+    
+  </td>
+  </tr>
+</table>
+<!--- stats (end) -->
 
 ---
 
