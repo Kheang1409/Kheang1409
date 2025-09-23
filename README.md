@@ -6,7 +6,7 @@
 
 <h2>Hi, I'm Kai Taing 👋</h2>
 <p>🚀 Senior Systems Engineer | .NET Specialist | Cloud-Native Builder</p>
-<p>5+ years building scalable backend systems and enterprise applications across finance, e-commerce, and the public sector. Proven results: 40% fewer system failures, payroll accelerated by one week, and reporting cut from 30 minutes to under 5 minutes.</p>
+<p>4 years building scalable backend systems and enterprise applications across finance, e-commerce, and the public sector. Proven results: 40% fewer system failures, payroll accelerated by one week, and reporting cut from 30 minutes to under 5 minutes.</p>
 
 <a href="https://www.linkedin.com/in/hang-kheang-taing" target="_blank">LinkedIn</a> •
 <a href="mailto:hangkheangtaing@gmail.com">Email</a> •
