@@ -1,5 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
+permissions:
+  contents: write
+
 on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
@@ -10,15 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          MY_TOKEN: ${{ secrets.MY_TOKEN }}
+          # Prefer a repo secret named MY_TOKEN if you have one; otherwise fall back to GitHub-provided token.
+          MY_TOKEN: ${{ secrets.MY_TOKEN || github.token }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated 3d profile"
+          git commit -m "generated 3d profile" || echo "No changes to commit"
           git push
