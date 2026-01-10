@@ -43,10 +43,10 @@ Note: Keep claims aligned with your resume.
 
 ## <img src="./assets/icons/sparkles.svg" width="18" alt="" /> Highlights
 
-- **Backend & architecture:** microservices, event-driven systems, CQRS, Clean Architecture, async/await, DI, background services
-- **Databases:** SQL Server / PostgreSQL / MySQL / MongoDB • indexing • stored procedures • execution plan analysis
-- **Delivery:** Docker, Kubernetes, CI/CD • AWS (EC2, Lambda, S3, RDS)
-- **Leadership:** mentoring through code reviews and architecture discussions
+- **Impact shipped:** reduced crashes by **40%**, cut payroll processing by **7 days**, optimized SQL pipelines from minutes to seconds
+- **What I build:** backend services, APIs, integrations, reporting pipelines, and workflow automation across finance/ERP/e-commerce
+- **How I think:** performance + reliability first, clean design, pragmatic tradeoffs, measurable outcomes
+- **How I work:** ownership end-to-end, clear communication, strong code reviews, mentoring, and documentation
 
 ---
 
@@ -56,13 +56,13 @@ Note: Keep claims aligned with your resume.
   <img align="right" src="./assets/coding.svg" alt="Coding" width="280" />
   <p>
     I build reliable services and APIs with a focus on performance, clarity, and maintainability.
-    I enjoy taking messy legacy workflows and turning them into clean systems with measurable impact.
+    I enjoy turning messy legacy workflows into clean systems with measurable impact.
   </p>
   <ul>
-    <li><strong>Strong in .NET:</strong> ASP.NET Core, Web API, EF Core, Dapper, middleware, background services</li>
-    <li><strong>System design:</strong> microservices, event-driven patterns, CQRS, DDD-inspired modeling</li>
-    <li><strong>Performance mindset:</strong> SQL tuning, indexing strategy, and production troubleshooting</li>
-    <li><strong>Collaboration:</strong> technical docs, reviews, mentoring, and pragmatic tradeoffs</li>
+    <li><strong>Ownership:</strong> I take features from requirements → implementation → production support</li>
+    <li><strong>Quality:</strong> I aim for simple designs, tests where they matter, and predictable deployments</li>
+    <li><strong>Performance:</strong> I care about latency, throughput, and database efficiency (not just “it works”)</li>
+    <li><strong>Collaboration:</strong> I write clear docs, review thoughtfully, and keep stakeholders aligned</li>
   </ul>
 </div>
 
@@ -71,21 +71,22 @@ Note: Keep claims aligned with your resume.
 ## <img src="./assets/icons/skills.svg" width="18" alt="" /> Core Skills
 
 <details>
-  <summary><strong>Expand skill areas</strong></summary>
+  <summary><strong>Expand core skills</strong></summary>
+
+<br/>
 
 **Backend & Architecture**
 
-- C#, .NET / .NET Core, ASP.NET Core, Web API, REST, gRPC
-- Microservices, Event-Driven Systems, CQRS, Clean Architecture, DDD
-- Async/Await, Dependency Injection, Middleware, Background Services
-- Kafka, Redis, SignalR
-- Entity Framework Core (EF Core), Dapper
+- C#, .NET, ASP.NET Core, Web API, REST, gRPC
+- Microservices, event-driven systems, CQRS, Clean Architecture
+- Background services, async/await, DI, middleware
+- EF Core, Dapper • Redis • Kafka
 
 **Databases**
 
 - SQL Server, PostgreSQL, MySQL, MongoDB
-- T-SQL, stored procedures, transactions
 - Query optimization, indexing, execution plan analysis
+- Stored procedures, transactions
 
 **Cloud & DevOps**
 
@@ -172,9 +173,9 @@ Note: Keep claims aligned with your resume.
   <tr border="0">
   <td width="50%" align="center">
     
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kheang1409&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Kheang1409&theme=dark&show_icons=true&count_private=true&hide_border=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kai streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kheang1409&theme=dark&hide_border=true"> 
+  <img title="🔥 Get streak stats for your profile" alt="Kai streak" src="https://streak-stats.demolab.com/?user=Kheang1409&theme=dark&hide_border=true" />
   </td>
 
   <td width="50%" align="center">
@@ -184,17 +185,14 @@ Note: Keep claims aligned with your resume.
 </table>
 </p>
 
-<details>
-  <summary><strong>More GitHub visuals</strong></summary>
+<p align="center">
+  <!-- Note: main endpoint can 503; using a community load-balancing endpoint. -->
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Kheang1409&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="GitHub trophies" />
+</p>
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kheang1409&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="GitHub trophies" />
-  </p>
-
-  <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=cobalt" alt="Jokes Card" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=cobalt" alt="Jokes Card" />
+</p>
 
 ---
 
