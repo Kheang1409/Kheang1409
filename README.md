@@ -1,104 +1,171 @@
-<!-- Header Banner -->
+<!--
+Profile README for GitHub
+Note: Keep claims aligned with your resume.
+-->
 
-![MasterHead](./assets/gh-header-image.png)
+![Hang Kheang Taing — Software Engineer](./assets/header.svg)
 
 <div align="center">
+  <h2>Hang Kheang Taing (Kai)</h2>
+  <p><strong>Software Engineer</strong> • C# / .NET • Microservices • Event-driven Systems • SQL Optimization • AWS</p>
 
-<h2>Hi, I'm Kai Taing 👋</h2>
-<p>🚀 Senior Systems Engineer | .NET Specialist | Cloud-Native Builder</p>
-<p>4 years building scalable backend systems and enterprise applications across finance, e-commerce, and the public sector. Proven results: 40% fewer system failures, payroll accelerated by one week, and reporting cut from 30 minutes to under 5 minutes.</p>
+  <p>
+    5+ years building scalable backend and full-stack systems across finance, ERP, e-commerce, and public-sector platforms.<br/>
+    Reduced system crashes by <strong>40%</strong>, cut payroll processing time by <strong>7 days</strong>, and optimized SQL pipelines from minutes to seconds.
+  </p>
 
-<a href="https://www.linkedin.com/in/hang-kheang-taing" target="_blank">LinkedIn</a> •
-<a href="mailto:hangkheangtaing@gmail.com">Email</a> •
-<a href="https://github.com/Kheang1409" target="_blank">GitHub</a> •
-<a href="https://kaitaing.netlify.app" target="_blank">Portfolio</a> •
-📞 641-233-0129
-
-</div>
-
----
-
-<h2>💼 About Me</h2>
-
-<div align="left" style="overflow: auto; padding-bottom: 20px;">
-  <img align="right" src="./assets/developer-dev.gif" alt="Coding" width="250" style="margin-left: 00px;" />
-  <ul>
-    <li>🔧 <strong>Senior Systems Engineer</strong> with expertise in <strong>.NET</strong>, <strong>SQL optimization</strong>, <strong>cloud-native development</strong>, and <strong>automation</strong></li>
-    <li>🌐 Full-stack capable: <strong>C#</strong>, <strong>.NET Core</strong>, <strong>Angular</strong>, <strong>React</strong>, <strong>SQL</strong>, <strong>MongoDB</strong></li>
-    <li>☁️ Skilled in <strong>AWS</strong> (Lambda, EC2, S3, RDS), <strong>Azure</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong></li>
-    <li>🧩 Experienced in <strong>Clean Architecture</strong>, <strong>DDD</strong>, <strong>CQRS</strong>, <strong>Microservices</strong>, <strong>Event-Driven Systems</strong> (Kafka, RabbitMQ)</li>
-    <li>📊 Proven track record: unified legacy systems → <strong>40% fewer crashes</strong>, accelerated payroll by <strong>7 days</strong>, optimized SQL pipelines → queries under <strong>2s</strong></li>
-    <li>👨‍🏫 Mentor and documentation author ensuring long-term maintainability</li>
-    <li>🎓 M.S. Computer Science @ MIU (U.S.) • B.S. Computer Science @ RUPP (Cambodia)</li>
-  </ul>
-</div>
-
----
-
-<div>
-  <h2 align="center">🧰 Technologies & Tools</h2>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,react,ts,js,html,css,bootstrap,tailwind,jquery,postgres,mysql,mongodb,redis,aws,azure,docker,kubernetes,kafka,rabbitmq,git,github,githubactions,gitlab,postman,selenium,powershell,py,java,visualstudio,vscode,idea,pycharm,rider,notion" />
+  <p>
+    <a href="https://kaitaing.netlify.app" target="_blank">
+      <img alt="Portfolio online" src="https://img.shields.io/website?url=https%3A%2F%2Fkaitaing.netlify.app&label=Portfolio&up_message=online&down_message=offline&style=for-the-badge" />
     </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank">
+      <img alt=".NET" src="https://img.shields.io/badge/.NET-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank">
+      <img alt="AWS" src="https://img.shields.io/badge/AWS-EC2%20%7C%20Lambda%20%7C%20S3-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://github.com/Kheang1409/Kheang1409/actions/workflows/profile-3d.yml" target="_blank">
+      <img alt="GitHub Actions" src="https://img.shields.io/github/actions/workflow/status/Kheang1409/Kheang1409/profile-3d.yml?label=3D%20Contrib&style=for-the-badge" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/hang-kheang-taing" target="_blank">LinkedIn</a> •
+    <a href="mailto:hangkheangtaing@gmail.com">hangkheangtaing@gmail.com</a> •
+    <a href="https://github.com/Kheang1409" target="_blank">GitHub</a> •
+    <a href="https://kaitaing.netlify.app" target="_blank">Portfolio</a>
+    <br/>
+    <strong>Open to:</strong> Backend / Full-stack roles • .NET services • Cloud + data-heavy systems
   </p>
 </div>
 
 ---
 
-### 💼 Experience
+## <img src="./assets/icons/sparkles.svg" width="18" alt="" /> Highlights
 
-**Senior .NET Developer – Core Banking @ Sahakrinpheap Microfinance PLC (2021–2024)**
-
-- Architected biometric attendance solution → accelerated payroll cycles by 7 days
-- Unified dual legacy plugins into a .NET app → reduced crashes by 40%, saving 20+ hours/month
-- Built real-time notification platform via Telegram Bot API → 99% reliability
-- Optimized SQL pipelines with indexing + caching → queries in <2s
-- Secured web reporting with OAuth2 + CORS → eliminated 100% unauthorized access
-- Mentored junior devs & authored long-term technical docs
-
-**.NET Full-Stack Developer @ Pathmazing Inc (2021)**
-
-- Engineered Python REST APIs + Odoo ERP integrations → 99% satisfaction
-- Integrated MS Teams with Odoo → boosted adoption by 35%, saved 10+ hours/week
-- Launched **Khmer Care** → raised $70.8K, partnered with 30+ orgs, awarded _Best Project of the Year_
-- Improved Firearms Metrics Platform → reporting from 30 min → <5 min
-- Connected ABA PayWay → improved payment reliability by 30%
-
-**.NET & Angular Developer @ Anakut Digital Solutions (2020–2021)**
-
-- Built POS system → eliminated 99% manual entry errors
-- Delivered Hotel Management System → check-in time ↓ 50%, efficiency ↑ 30%
-- Developed Clinic Management System → wait times ↓ 45%, staff efficiency ↑ 20%
-- Customized Odoo ERP for e-commerce → boosted retention by 15%
+- **Backend & architecture:** microservices, event-driven systems, CQRS, Clean Architecture, async/await, DI, background services
+- **Databases:** SQL Server / PostgreSQL / MySQL / MongoDB • indexing • stored procedures • execution plan analysis
+- **Delivery:** Docker, Kubernetes, CI/CD • AWS (EC2, Lambda, S3, RDS)
+- **Leadership:** mentoring through code reviews and architecture discussions
 
 ---
 
-### 🎓 Education
+## <img src="./assets/icons/user.svg" width="18" alt="" /> About
 
-- **M.S. Computer Science** – Maharishi International University, U.S. _(2024–2026)_
-- **B.S. Computer Science** – Royal University of Phnom Penh, Cambodia _(2016–2020)_
-
----
-
-### 🚀 Featured Projects
-
-- **🔗 Job Tracker Platform** – Microservices job management app (**Angular + .NET, Kafka, MongoDB**)
-- **🌐 Media Platform API** – Clean Architecture Web API, Dockerized + CI/CD pipelines
-- **🕵️ Firearms Metrics Platform** – Reporting optimized from 30 min → 5 min for 200+ officers
-- **📱 Khmer Care (Award-Winning)** – Raised $70.8K, partnered with 30+ orgs, ABA PayWay integration
-- **📊 Angkor Milk Analytics** – Query optimization delivered insights to 500+ users in 2 days
-- **🧠 AI-Enabled Portfolio Site** – Designed to unify portfolio, blog, and an intelligent AI assistant, delivering an interactive and modern user experience.
-
----
-
-### 🏆 Honors
-
-- **Khmer Care** → _Best Project & Team Effort of The Year_ @ Pathmazing Inc (2021)
+<div align="left" style="overflow: auto; padding-bottom: 10px;">
+  <img align="right" src="./assets/coding.svg" alt="Coding" width="280" />
+  <p>
+    I build reliable services and APIs with a focus on performance, clarity, and maintainability.
+    I enjoy taking messy legacy workflows and turning them into clean systems with measurable impact.
+  </p>
+  <ul>
+    <li><strong>Strong in .NET:</strong> ASP.NET Core, Web API, EF Core, Dapper, middleware, background services</li>
+    <li><strong>System design:</strong> microservices, event-driven patterns, CQRS, DDD-inspired modeling</li>
+    <li><strong>Performance mindset:</strong> SQL tuning, indexing strategy, and production troubleshooting</li>
+    <li><strong>Collaboration:</strong> technical docs, reviews, mentoring, and pragmatic tradeoffs</li>
+  </ul>
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## <img src="./assets/icons/skills.svg" width="18" alt="" /> Core Skills
+
+<details>
+  <summary><strong>Expand skill areas</strong></summary>
+
+**Backend & Architecture**
+
+- C#, .NET / .NET Core, ASP.NET Core, Web API, REST, gRPC
+- Microservices, Event-Driven Systems, CQRS, Clean Architecture, DDD
+- Async/Await, Dependency Injection, Middleware, Background Services
+- Kafka, Redis, SignalR
+- Entity Framework Core (EF Core), Dapper
+
+**Databases**
+
+- SQL Server, PostgreSQL, MySQL, MongoDB
+- T-SQL, stored procedures, transactions
+- Query optimization, indexing, execution plan analysis
+
+**Cloud & DevOps**
+
+- AWS (EC2, Lambda, S3, RDS)
+- Docker, Kubernetes
+- CI/CD (GitHub Actions, GitLab CI)
+
+**Frontend**
+
+- JavaScript, TypeScript, Angular, React, Next.js, HTML, CSS, Tailwind
+
+**Security & Testing**
+
+- OAuth2, JWT, RBAC, CORS, HTTPS/TLS
+- xUnit, NUnit, Moq • unit & integration testing
+
+</details>
+
+---
+
+## <img src="./assets/icons/stack.svg" width="18" alt="" /> Technologies (quick glance)
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,mongodb,redis,aws,docker,kubernetes,kafka,git,github,githubactions,gitlab,postman,angular,react,nextjs,ts,js,html,css,tailwind,py,visualstudio,vscode,powershell&theme=dark&perline=12" />
+  </a>
+</div>
+
+---
+
+## <img src="./assets/icons/briefcase.svg" width="18" alt="" /> Experience
+
+**Senior Software Engineer — Sahakrinpheap Microfinance PLC (Sep 2021 – May 2024)**
+
+- Designed and automated biometric attendance services, reducing payroll processing time by **7 days**.
+- Consolidated multiple legacy banking plugins into a single system, cutting crashes by **40%** and saving **20+ maintenance hours/month**.
+- Implemented real-time Telegram Bot alerts for system incidents, improving response time by **50%** and maintaining **99% uptime**.
+- Optimized SQL reporting pipelines, reducing execution time from minutes to **under 2 seconds**.
+- Strengthened application security with authentication and CORS policies, passing internal audits with **zero unauthorized access incidents**.
+- Mentored junior developers through code reviews and architecture discussions, reducing onboarding time by **30%**.
+
+**Full-Stack Engineer — Pathmazing Inc (Mar 2021 – Sep 2021)**
+
+- Built and maintained Python-based REST APIs and custom Odoo ERP integrations, improving operational workflows and user satisfaction.
+- Integrated Microsoft Teams with Odoo, increasing meeting adoption by **35%** and saving **10+ hours/week** in manual coordination.
+- Contributed to the Odoo **13 → 14** upgrade, improving performance by **20%**, eliminating data duplication, and optimizing multiple modules.
+- Integrated ABA PayWay payment gateway, increasing transaction reliability by **30%** for **1,000+ monthly payments**.
+- Collaborated on the Khmer Care fundraising platform, contributing to fundraising totaling **$70.8K** across **30+** partner organizations.
+- Optimized Firearms Metrics Platform, reducing reporting time from **30 minutes** to **under 5 minutes** for **200+ users**.
+
+**Application Developer — Anakut Digital Solution, Co. Ltd (Oct 2020 – May 2021)**
+
+- Developed a POS system with automated inventory and scale integration, eliminating **99%** of manual entry errors.
+- Built a Hotel Management System with booking engine, reducing check-in time by **50%** and increasing booking efficiency by **30%**.
+- Delivered a Clinic Management System with scheduling and notifications, reducing patient wait times by **45%**.
+- Configured Odoo ERP for e-commerce operations, enabling real-time order tracking and improving customer retention by **15%**.
+
+---
+
+## <img src="./assets/icons/rocket.svg" width="18" alt="" /> Side Projects & Personal Engineering Work
+
+- **AI-Powered Portfolio** — Improved navigation and user flow based on feedback, increasing session duration by **35%** for **150+ weekly users**.
+- **Angkor Milk Meal Reporting App** — Collaborated with **500+ users** to optimize reporting queries, delivering faster insights within **2 days**.
+
+---
+
+## <img src="./assets/icons/graduation.svg" width="18" alt="" /> Education
+
+- **M.S. Computer Science** — Maharishi International University (May 2024 – Dec 2026)
+- **B.S. Computer Science** — Royal University of Phnom Penh (Nov 2016 – Nov 2020)
+
+---
+
+## <img src="./assets/icons/award.svg" width="18" alt="" /> Honors
+
+- **Khmer Care** — Best Project & Team Effort of The Year @ Pathmazing Inc (06/2021)
+
+---
+
+## <img src="./assets/icons/github.svg" width="18" alt="" /> GitHub
 
 <p align="center">
   <table align="center">
@@ -117,23 +184,21 @@
 </table>
 </p>
 
+<details>
+  <summary><strong>More GitHub visuals</strong></summary>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kheang1409&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="GitHub trophies" />
+  </p>
+
+  <p align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=cobalt" alt="Jokes Card" />
+  </p>
+</details>
+
 ---
 
-### 🏆 GitHub Trophies
+## <img src="./assets/icons/mail.svg" width="18" alt="" /> Let's Connect
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kheang1409&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" />
-</p>
-
----
-
-### 📬 Let's Connect
-
-💬 Always open to discussions about backend systems, cloud architecture, and scaling legacy applications.  
+💬 Always open to discussions about backend systems, cloud architecture, and scaling legacy applications.
 Reach me via [LinkedIn](https://www.linkedin.com/in/hang-kheang-taing), [GitHub](https://github.com/Kheang1409), or [Portfolio](https://kaitaing.netlify.app).
-
----
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=cobalt" alt="Jokes Card" />
-</div>

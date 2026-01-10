@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-label="sparkles">
+  <defs>
+    <linearGradient id="g" x1="2" y1="2" x2="22" y2="22" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <path d="M12 2l1.1 4.4L17.5 8l-4.4 1.1L12 13.5l-1.1-4.4L6.5 8l4.4-1.6L12 2z" fill="url(#g)"/>
+  <path d="M19 11l.7 2.7L22 14.5l-2.3.8L19 18l-.7-2.7L16 14.5l2.3-.8L19 11z" fill="url(#g)" opacity="0.9"/>
+  <path d="M5 12l.6 2.2L8 15l-2.4.8L5 18l-.6-2.2L2 15l2.4-.8L5 12z" fill="url(#g)" opacity="0.85"/>
+</svg>
