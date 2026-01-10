@@ -175,7 +175,7 @@ Note: Keep claims aligned with your resume.
     
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Kheang1409&theme=dark&show_icons=true&count_private=true&hide_border=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile" alt="Kai streak" src="https://streak-stats.demolab.com/?user=Kheang1409&theme=dark&hide_border=true" />
+  <img title="🔥 Get streak stats for your profile" alt="Kai streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kheang1409&theme=dark&hide_border=true" />
   </td>
 
   <td width="50%" align="center">
