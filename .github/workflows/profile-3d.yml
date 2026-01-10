@@ -14,10 +14,13 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.MY_TOKEN || secrets.GITHUB_TOKEN }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          # Prefer a repo secret named MY_TOKEN if you have one; otherwise fall back to GitHub-provided token.
-          MY_TOKEN: ${{ secrets.MY_TOKEN || github.token }}
+          # This action reads GITHUB_TOKEN from env.
+          # Prefer a repo secret named MY_TOKEN (PAT) if you have one; otherwise use the default GitHub Actions token.
+          GITHUB_TOKEN: ${{ secrets.MY_TOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
