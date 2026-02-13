@@ -10,9 +10,9 @@ Note: Keep claims aligned with your resume.
   <p><strong>Software Engineer</strong> • C# / .NET • Microservices • Event-driven Systems • SQL Optimization • AWS</p>
 
   <p>
-    5+ years building scalable backend and full-stack systems across finance, ERP, e-commerce, and public-sector platforms.<br/>
+    Building scalable backend and full-stack systems across finance, ERP, e-commerce, and public-sector platforms.<br/>
     Reduced system crashes by <strong>40%</strong>, cut payroll processing time by <strong>7 days</strong>, and optimized SQL pipelines from minutes to seconds.
-  </p>
+</p>
 
   <p>
     <a href="https://kaitaing.netlify.app" target="_blank">
