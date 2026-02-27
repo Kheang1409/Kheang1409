@@ -7,12 +7,12 @@ Note: Keep claims aligned with your resume.
 
 <div align="center">
   <h2>Hang Kheang Taing (Kai)</h2>
-  <p><strong>Software Engineer</strong> • C# / .NET • Microservices • Event-driven Systems • SQL Optimization • AWS</p>
+  <p><strong>Software Engineer</strong> • C# / .NET • Microservices • Event-driven Systems • SQL Performance • AWS / Azure</p>
 
   <p>
-    Building scalable backend and full-stack systems across finance, ERP, e-commerce, and public-sector platforms.<br/>
-    Reduced system crashes by <strong>40%</strong>, cut payroll processing time by <strong>7 days</strong>, and optimized SQL pipelines from minutes to seconds.
-</p>
+    I build scalable backend and full-stack systems across finance, ERP, e-commerce, and public-sector platforms.<br/>
+    Delivered measurable impact: reduced crashes by <strong>40%</strong>, cut payroll processing by <strong>7 days</strong>, and optimized SQL pipelines from minutes to seconds.
+  </p>
 
   <p>
     <a href="https://kaitaing.netlify.app" target="_blank">
@@ -35,7 +35,7 @@ Note: Keep claims aligned with your resume.
     <a href="https://github.com/Kheang1409" target="_blank">GitHub</a> •
     <a href="https://kaitaing.netlify.app" target="_blank">Portfolio</a>
     <br/>
-    <strong>Open to:</strong> Backend / Full-stack roles • .NET services • Cloud + data-heavy systems
+    <strong>Focus:</strong> Backend / Full-stack • .NET services • Cloud + data-heavy systems
   </p>
 </div>
 
@@ -44,9 +44,9 @@ Note: Keep claims aligned with your resume.
 ## <img src="./assets/icons/sparkles.svg" width="18" alt="" /> Highlights
 
 - **Impact shipped:** reduced crashes by **40%**, cut payroll processing by **7 days**, optimized SQL pipelines from minutes to seconds
-- **What I build:** backend services, APIs, integrations, reporting pipelines, and workflow automation across finance/ERP/e-commerce
-- **How I think:** performance + reliability first, clean design, pragmatic tradeoffs, measurable outcomes
-- **How I work:** ownership end-to-end, clear communication, strong code reviews, mentoring, and documentation
+- **What I build:** backend services, APIs, integrations, reporting pipelines, and workflow automation
+- **How I design:** performance + reliability first, clean boundaries, pragmatic tradeoffs, measurable outcomes
+- **How I work:** ownership end-to-end, clear communication, strong reviews, mentoring, and documentation
 
 ---
 
@@ -56,13 +56,13 @@ Note: Keep claims aligned with your resume.
   <img align="right" src="./assets/coding.svg" alt="Coding" width="280" />
   <p>
     I build reliable services and APIs with a focus on performance, clarity, and maintainability.
-    I enjoy turning messy legacy workflows into clean systems with measurable impact.
+    I like turning messy legacy workflows into clean systems with measurable impact.
   </p>
   <ul>
-    <li><strong>Ownership:</strong> I take features from requirements → implementation → production support</li>
-    <li><strong>Quality:</strong> I aim for simple designs, tests where they matter, and predictable deployments</li>
-    <li><strong>Performance:</strong> I care about latency, throughput, and database efficiency (not just “it works”)</li>
-    <li><strong>Collaboration:</strong> I write clear docs, review thoughtfully, and keep stakeholders aligned</li>
+    <li><strong>Ownership:</strong> from requirements → implementation → production support</li>
+    <li><strong>Quality:</strong> simple designs, tests where they matter, predictable deployments</li>
+    <li><strong>Performance:</strong> latency/throughput and database efficiency (not just “it works”)</li>
+    <li><strong>Collaboration:</strong> clear docs, thoughtful reviews, aligned stakeholders</li>
   </ul>
 </div>
 
@@ -75,33 +75,41 @@ Note: Keep claims aligned with your resume.
 
 <br/>
 
+**Core competencies**
+
+- OOP, SOLID, Clean Architecture, DDD
+- Microservices, event-driven systems, CQRS
+- Secure API design, CI/CD, Agile/Scrum
+
 **Backend & Architecture**
 
-- C#, .NET, ASP.NET Core, Web API, REST, gRPC
+- C#, .NET, ASP.NET Core (MVC/Web API), REST, GraphQL, gRPC, SignalR
 - Microservices, event-driven systems, CQRS, Clean Architecture
 - Background services, async/await, DI, middleware
 - EF Core, Dapper • Redis • Kafka
 
 **Databases**
 
-- SQL Server, PostgreSQL, MySQL, MongoDB
+- SQL Server, PostgreSQL, MongoDB
 - Query optimization, indexing, execution plan analysis
 - Stored procedures, transactions
 
 **Cloud & DevOps**
 
 - AWS (EC2, Lambda, S3, RDS)
-- Docker, Kubernetes
-- CI/CD (GitHub Actions, GitLab CI)
+- Azure (App Service, Functions, SQL, Storage)
+- Docker, Kubernetes (AKS/EKS)
+- CI/CD (Azure DevOps, GitHub Actions, GitLab CI)
 
 **Frontend**
 
 - JavaScript, TypeScript, Angular, React, Next.js, HTML, CSS, Tailwind
+- WPF, XAML (MVVM)
 
 **Security & Testing**
 
 - OAuth2, JWT, RBAC, CORS, HTTPS/TLS
-- xUnit, NUnit, Moq • unit & integration testing
+- Unit & integration testing • xUnit, NUnit
 
 </details>
 
@@ -111,7 +119,7 @@ Note: Keep claims aligned with your resume.
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,mongodb,redis,aws,docker,kubernetes,kafka,git,github,githubactions,gitlab,postman,angular,react,nextjs,ts,js,html,css,tailwind,py,visualstudio,vscode,powershell&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mongodb,redis,aws,azure,docker,kubernetes,kafka,graphql,git,github,githubactions,gitlab,postman,angular,react,nextjs,ts,js,html,css,tailwind,py,visualstudio,vscode,powershell&theme=dark&perline=12" />
   </a>
 </div>
 
@@ -198,5 +206,5 @@ Note: Keep claims aligned with your resume.
 
 ## <img src="./assets/icons/mail.svg" width="18" alt="" /> Let's Connect
 
-💬 Always open to discussions about backend systems, cloud architecture, and scaling legacy applications.
+Always open to discussions about backend systems, cloud architecture, and scaling legacy applications.
 Reach me via [LinkedIn](https://www.linkedin.com/in/hang-kheang-taing), [GitHub](https://github.com/Kheang1409), or [Portfolio](https://kaitaing.netlify.app).
