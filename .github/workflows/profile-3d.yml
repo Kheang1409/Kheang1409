@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 18 * * *' # 03:00 JST
+    - cron: "0 18 * * *" # 03:00 JST
   workflow_dispatch:
 
 jobs:
@@ -16,47 +16,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Use built-in token for checkout; override with MY_TOKEN if provided
+          token: ${{ secrets.MY_TOKEN || secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
       - name: Generate 3D profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          # Use the built-in token by default. If you need a PAT, add a repo secret named MY_TOKEN
+          # Use the provided token (MY_TOKEN) if available, otherwise the runner token
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated 3d profile" || echo "No changes to commit"
-          git push
-name: GitHub-Profile-3D-Contrib
-
-permissions:
-  contents: write
-
-on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.MY_TOKEN || secrets.GITHUB_TOKEN }}
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          # This action reads GITHUB_TOKEN from env.
-          # Prefer a repo secret named MY_TOKEN (PAT) if you have one; otherwise use the default GitHub Actions token.
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN || secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
