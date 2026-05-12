@@ -9,6 +9,7 @@ Note: Keep claims aligned with your resume.
   <h2>Hang Kheang Taing (Kai)</h2>
   <p><strong>Software Engineer</strong></p>
   <p>C# / .NET Core • Microservices • Event-Driven Systems • Cloud (AWS / Azure) • SQL Performance</p>
+  <p><em>Work Authorization: Authorized to work in the U.S. without current or future employer sponsorship</em></p>
 
   <p>
     <a href="https://kaitaing.netlify.app" target="_blank">
@@ -29,6 +30,7 @@ Note: Keep claims aligned with your resume.
   </p>
 
   <p>
+    641-233-0129 •
     <a href="https://www.linkedin.com/in/hang-kheang-taing" target="_blank">LinkedIn</a> •
     <a href="mailto:hangkheangtaing@gmail.com">Email</a> •
     <a href="https://github.com/Kheang1409" target="_blank">GitHub</a> •
@@ -43,58 +45,29 @@ Note: Keep claims aligned with your resume.
 <div align="left" style="overflow: auto; padding-bottom: 10px;">
   <img align="right" src="./assets/coding.svg" alt="Coding" width="260" />
 
-I build scalable backend and full-stack systems across **finance**, **ERP**, **e-commerce**, and **public-sector** platforms.
+Software Engineer with **5+ years** of experience building scalable backend systems and distributed applications using **C#**, **.NET Core**, and cloud platforms (**AWS**, **Azure**).
 
-I like turning messy legacy workflows into clean systems with measurable impact — reduced crashes by **40%**, cut payroll processing by **7 days**, and optimized SQL pipelines from minutes to seconds.
+Strong expertise in **RESTful API development**, **database optimization**, and **microservices architecture**. Proven ability to modernize legacy systems, improve performance, and deliver reliable, secure applications in production environments.
 
-- **Ownership:** requirements → implementation → production support
-- **Quality:** simple designs, tests where they matter, predictable deployments
-- **Performance:** latency, throughput, and database efficiency — not just "it works"
-- **Collaboration:** clear docs, thoughtful reviews, mentoring, aligned stakeholders
+**Focus Areas**
+
+- Backend systems and APIs that scale under production load
+- Data performance tuning and query optimization
+- Cloud-native services, reliability, and security
+
 </div>
 
 ---
 
 ## <img src="./assets/icons/skills.svg" width="18" alt="" /> Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Backend & Architecture**
-
-- C#, .NET, ASP.NET Core (MVC / Web API)
-- REST, GraphQL, gRPC, SignalR
-- Microservices, Event-Driven, CQRS, DDD
-- EF Core, Dapper, Kafka, Redis
-
-**Databases**
-
-- SQL Server, PostgreSQL, MongoDB
-- T-SQL, Stored Procedures, Query Optimization
-- Indexing, Execution Plans, Transactions
-
-</td>
-<td width="50%" valign="top">
-
-**Cloud & DevOps**
-
-- AWS (EC2, Lambda, S3, RDS)
-- Azure (App Service, Functions, SQL, Service Bus)
-- Docker, Kubernetes (AKS / EKS)
-- CI/CD (Azure DevOps, GitHub Actions, GitLab CI)
-
-**Frontend & Tools**
-
-- TypeScript, Angular, React, Next.js
-- WPF, XAML (MVVM)
-- Git, Swagger/OpenAPI, GitHub Copilot
-
-</td>
-</tr>
-</table>
-
-**Core:** OOP, SOLID, Clean Architecture, Secure API Design, Agile/Scrum
+- **Languages & Frameworks:** C#, .NET Core, ASP.NET Core, JavaScript, TypeScript
+- **Backend & Architecture:** REST APIs, Microservices, Event-Driven Architecture, CQRS, Clean Architecture, Dependency Injection, Kafka, Redis, SignalR
+- **Databases:** SQL Server, PostgreSQL, MongoDB, Entity Framework Core, Dapper, Query Optimization, Indexing
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Azure (App Services, Functions), Docker, Kubernetes, CI/CD (GitHub Actions, Azure DevOps)
+- **Frontend:** React, Angular, Next.js, HTML5, CSS3
+- **Security:** OAuth2, JWT, RBAC
+- **Core:** OOP, SOLID, Secure API Design, Agile/Scrum
 
 ---
 
@@ -102,7 +75,7 @@ I like turning messy legacy workflows into clean systems with measurable impact 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mongodb,redis,aws,azure,docker,kubernetes,kafka,graphql,git,github,githubactions,gitlab,postman,angular,react,nextjs,ts,js,html,css,tailwind,py,visualstudio,vscode&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mongodb,redis,aws,azure,docker,kubernetes,kafka,graphql,git,github,githubactions,gitlab,postman,angular,react,nextjs,ts,js,html,css,tailwind,py,visualstudio,vscode&theme=dark&perline=10" />
   </a>
 </div>
 
@@ -111,64 +84,77 @@ I like turning messy legacy workflows into clean systems with measurable impact 
 ## <img src="./assets/icons/briefcase.svg" width="18" alt="" /> Experience
 
 <details open>
-<summary><strong>Software Engineer III — Sahakrinpheap Microfinance PLC</strong> <em>(Sep 2021 – May 2024)</em></summary>
+<summary><strong>Software Engineer — Better &amp; Best Inc.</strong> <em>(Apr 2026 – Present | Oregon, WI, USA)</em></summary>
 <br/>
 
-- Designed and automated biometric attendance services using C#, .NET Core, ASP.NET Core MVC, SQL Server, deployed on AWS Lambda and S3 — reduced payroll processing time by **7 days**
-- Consolidated multiple legacy banking plugins into a unified microservices architecture with RESTful APIs and EF Core on AWS EC2 — cut crashes by **40%**, saved **20+ maintenance hours/month**
-- Implemented real-time Telegram Bot alerts for system incidents using SignalR, Kafka, and Redis on AWS Lambda — improved response time by **50%**, maintained **99% uptime**
-- Optimized SQL reporting pipelines with T-SQL and query tuning on AWS RDS — reduced execution time from minutes to **under 2 seconds**
-- Strengthened application security with OAuth2, JWT, and CORS policies — passed internal audits with **zero unauthorized access incidents**
-- Mentored junior developers through code reviews and architecture discussions using Clean Architecture and CQRS — reduced onboarding time by **30%**
+- Design and develop backend services and internal applications supporting POS, billing, and order management systems
+- Build RESTful APIs enabling real-time data processing and system integration across operational workflows
+- Optimize database queries and schema design, improving response time and system reliability under daily transaction loads
+- Refactor legacy components into modular, scalable services to improve maintainability and extensibility
+- Troubleshoot and resolve production issues, ensuring high availability and system stability
+- Collaborate with stakeholders to translate business requirements into scalable technical solutions
 </details>
 
 <details>
-<summary><strong>Software Engineer II — Pathmazing Inc</strong> <em>(Mar 2021 – Sep 2021)</em></summary>
+<summary><strong>Software Engineer — Sahakrinpheap Microfinance PLC</strong> <em>(Sep 2021 – May 2024 | Phnom Penh, Cambodia)</em></summary>
 <br/>
 
-- Built and maintained Python-based REST APIs and custom Odoo ERP integrations on Azure App Service and Azure SQL Database
-- Integrated Microsoft Teams with Odoo using GraphQL and REST services — increased meeting adoption by **35%**, saved **10+ hours/week**
-- Contributed to Odoo **13 → 14** upgrade using Python and PostgreSQL on Azure — improved performance by **20%**, eliminated data duplication
-- Integrated ABA PayWay payment gateway with C# Web API and SQL Server on Azure — increased transaction reliability by **30%** for **1,000+ monthly payments**
-- Collaborated on Khmer Care fundraising platform using Angular and React deployed on Azure — contributed to **$70.8K** fundraising across **30+ partner organizations**
-- Optimized Firearms Metrics Platform with ASP.NET Core and EF Core on Azure SQL — reduced reporting time from **30 min** to **under 5 min** for **200+ users**
+- Re-architected legacy banking systems into scalable microservices using C# and ASP.NET Core, developing RESTful APIs and reducing system crashes by **40%** while improving maintainability
+- Built and maintained event-driven monitoring and alerting systems on Azure, improving incident response time by **50%** and achieving **99% uptime**
+- Optimized SQL Server and PostgreSQL databases by refining complex queries, stored procedures, and indexing strategies, reducing execution time from minutes to **2 seconds**
+- Designed and developed backend services for payroll and attendance systems, automating workflows and reducing processing time by **7 days**
+- Implemented secure authentication and authorization using OAuth2, JWT, and RBAC, ensuring compliance and zero unauthorized access incidents
+- Diagnosed and resolved production issues through debugging and performance analysis, improving system stability and reducing downtime
+- Collaborated with architects, QA, and DevOps in Agile sprints, using Jira for sprint planning and GitHub Actions for CI/CD pipelines, which shortened release cycles by **15%** and increased deployment frequency
+- Mentored engineers on backend development and system design, reducing onboarding time by **30%** and improving team productivity
 </details>
 
 <details>
-<summary><strong>Software Engineer II — Anakut Digital Solution, Co. Ltd</strong> <em>(Oct 2020 – May 2021)</em></summary>
+<summary><strong>Software Engineer — Pathmazing Inc</strong> <em>(Mar 2021 – Sep 2021 | Phnom Penh, Cambodia)</em></summary>
 <br/>
 
-- Developed POS system with automated inventory and scale integration using C#, .NET Core, SQL Server on Azure VMs — eliminated **99%** of manual entry errors
-- Built Hotel Management System with booking engine using ASP.NET Core MVC, EF Core, and Angular on Azure App Service — reduced check-in time by **50%**, increased booking efficiency by **30%**
-- Delivered Clinic Management System with scheduling and notifications using SignalR on Azure Functions — reduced patient wait times by **45%**
-- Configured Odoo ERP for e-commerce operations on Azure SQL — enabled real-time order tracking, improved customer retention by **15%**
+- Designed and integrated secure RESTful APIs with third-party payment systems, improving transaction reliability by **30%** and enabling seamless system integrations
+- Developed and maintained backend services using C# and .NET, supporting ERP integrations and reducing manual operational workflows
+- Optimized SQL queries and database performance, improving system efficiency by **20%** and resolving data inconsistencies
+- Improved reporting pipelines by redesigning data processing logic, reducing execution time from **30 minutes** to a few minutes
+- Provided debugging and troubleshooting for production systems using Azure Monitor logs and Kubernetes health checks, which kept system reliability high and reduced issue-resolution time
 </details>
 
 <details>
-<summary><strong>Software Engineer I — Arrow Dot</strong> <em>(Oct 2019 – Oct 2020)</em></summary>
+<summary><strong>Software Engineer — Anakut Digital Solution, Co. Ltd</strong> <em>(Oct 2020 – May 2021 | Phnom Penh, Cambodia)</em></summary>
 <br/>
 
-- Optimized POS and academic systems using C#, ASP.NET Core, EF Core, SQL Server on Azure VMs — increased productivity and flexibility by **~30%**
-- Built company website using React, Next.js, HTML5, CSS3, Tailwind CSS with CI/CD via GitHub Actions and Docker — drove **200+ registrations** and **50+ online sales** in 6 months
+- Developed scalable backend systems for POS and management platforms, reducing manual data entry errors by **99%**
+- Built and maintained RESTful APIs for ERP-integrated systems, enabling real-time data tracking and reporting
+- Designed scheduling and booking services, improving system efficiency and reducing processing time by **50%**
+- Implemented real-time communication features using SignalR, improving user responsiveness by **45%**
+- Applied modular architecture and design patterns in ASP.NET Core projects, ensuring maintainable and scalable codebases that reduced future development effort
+</details>
+
+<details>
+<summary><strong>Software Engineer — Arrow Dot</strong> <em>(Oct 2019 – Oct 2020 | Phnom Penh, Cambodia)</em></summary>
+<br/>
+
+- Developed and deployed web applications using CI/CD pipelines, Docker, and Kubernetes, improving deployment reliability and reducing manual release effort
+- Built and maintained backend services and APIs, improving database performance and overall system efficiency by **30%**
+- Collaborated with development teams through Git pull-request workflows, conducting code reviews and managing feature branches, which streamlined version control and reduced integration conflicts
 </details>
 
 ---
 
 ## <img src="./assets/icons/rocket.svg" width="18" alt="" /> Projects
 
-| Project                            | Description                                                                                                           |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **AI-Powered Portfolio**           | Improved navigation and user flow based on feedback — increased session duration by **35%** for **150+ weekly users** |
-| **Angkor Milk Meal Reporting App** | Collaborated with **500+ users** to optimize reporting queries — delivered faster insights within **2 days**          |
+- **AI-Powered Portfolio** — Integrated LLM APIs to generate dynamic content, increasing user engagement by **35%** for **150+ weekly users**
+- **Angkor Milk Meal App** — Optimized SQL queries and reporting features, improving performance and usability for **500+ users**
 
 ---
 
 ## <img src="./assets/icons/graduation.svg" width="18" alt="" /> Education
 
-| Degree                    | Institution                        | Timeline            |
-| ------------------------- | ---------------------------------- | ------------------- |
-| **M.S. Computer Science** | Maharishi International University | May 2024 – Dec 2026 |
-| **B.S. Computer Science** | Royal University of Phnom Penh     | Nov 2016 – Nov 2020 |
+| Degree                    | Institution                        | Timeline            | Location             |
+| ------------------------- | ---------------------------------- | ------------------- | -------------------- |
+| **M.S. Computer Science** | Maharishi International University | May 2024 – Dec 2026 | Fairfield, IA, USA   |
+| **B.S. Computer Science** | Royal University of Phnom Penh     | Nov 2016 – Nov 2020 | Phnom Penh, Cambodia |
 
 ---
 
@@ -180,21 +166,22 @@ I like turning messy legacy workflows into clean systems with measurable impact 
 
 ## <img src="./assets/icons/github.svg" width="18" alt="" /> GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Kheang1409&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kheang1409&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kheang1409&theme=dark&hide_border=true&langs_count=10&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Kheang1409&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Kheang1409/Kheang1409/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="380" />
+      <br/>
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Kheang1409&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" width="380" />
+      <br/>
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kheang1409&theme=dark&hide_border=true&langs_count=10&layout=compact" alt="Top Languages" width="380" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kheang1409&theme=dark&hide_border=true" alt="GitHub Streak" width="380" />
+      <br/>
+      <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Kheang1409&theme=tokyonight&row=1&column=6&margin-h=15&margin-w=15&no-bg=true" alt="GitHub Trophies" width="380" />
+    </td>
+  </tr>
+</table>
 
 ---
 
