@@ -110,7 +110,7 @@ Strong expertise in **RESTful API development**, **database optimization**, and 
 </details>
 
 <details>
-<summary><strong>Software Engineer — Pathmazing Inc</strong> <em>(Mar 2021 – Sep 2021 | Phnom Penh, Cambodia)</em></summary>
+<summary><strong>Software Engineer — Pathmazing Inc.</strong> <em>(Mar 2021 – Sep 2021 | Phnom Penh, Cambodia)</em></summary>
 <br/>
 
 - Designed and integrated secure RESTful APIs with third-party payment systems, improving transaction reliability by **30%** and enabling seamless system integrations
@@ -160,7 +160,7 @@ Strong expertise in **RESTful API development**, **database optimization**, and 
 
 ## <img src="./assets/icons/award.svg" width="18" alt="" /> Honors
 
-- **Best Project & Team Effort of The Year** — Khmer Care @ Pathmazing Inc (06/2021)
+- **Best Project & Team Effort of The Year** — Khmer Care @ Pathmazing Inc. (06/2021)
 
 ---
 
