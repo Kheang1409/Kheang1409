@@ -45,7 +45,7 @@ Note: Keep claims aligned with your resume.
 <div align="left" style="overflow: auto; padding-bottom: 10px;">
   <img align="right" src="./assets/coding.svg" alt="Coding" width="260" />
 
-Software Engineer with **5+ years** of experience building scalable backend systems and distributed applications using **C#**, **.NET Core**, and cloud platforms (**AWS**, **Azure**).
+Software Engineer with experience building scalable backend systems and distributed applications using **C#**, **.NET Core**, and cloud platforms (**AWS**, **Azure**).
 
 Strong expertise in **RESTful API development**, **database optimization**, and **microservices architecture**. Proven ability to modernize legacy systems, improve performance, and deliver reliable, secure applications in production environments.
 
